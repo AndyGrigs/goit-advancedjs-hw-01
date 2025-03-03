@@ -1,0 +1,1 @@
+console.log('Hello from 1-gallery.js');
